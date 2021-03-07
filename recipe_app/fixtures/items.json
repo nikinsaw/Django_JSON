@@ -1,0 +1,68 @@
+[
+  {
+    "model": "recipe_app.items",
+    "pk": 1,
+    "fields": {
+      "title": "Egg Salad",
+      "calories": 470,
+      "url": "https://images.pexels.com/photos/3008740/pexels-photo-3008740.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "description": "Secretly an updated version of boiled egg salad, but a million times better than that description makes it sound.",
+      "time": 10
+    }
+  },
+  {
+    "model": "recipe_app.items",
+    "pk": 2,
+    "fields": {
+      "title": "Spring Salad",
+      "calories": 240,
+      "url": "https://images.pexels.com/photos/1152237/pexels-photo-1152237.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "description": "Secretly an updated version of spring cocktail, but a million times better than that description makes it sound.",
+      "time": 6
+    }
+  },
+  {
+    "model": "recipe_app.items",
+    "pk": 3,
+    "fields": {
+     "title": "Prawn Salad",
+      "calories": 617,
+      "url": "https://images.pexels.com/photos/3045731/pexels-photo-3045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Secretly an updated version of prawn cocktail, but a million times better than that description makes it sound.",
+      "time": 8
+    }
+  },
+  {
+    "model": "recipe_app.items",
+    "pk": 4,
+    "fields": {
+      "title": "Egg Salad",
+      "calories": 470,
+      "url": "https://images.pexels.com/photos/3008740/pexels-photo-3008740.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "description": "Secretly an updated version of boiled egg salad, but a million times better than that description makes it sound.",
+      "time": 9
+    }
+  },
+  {
+    "model": "recipe_app.items",
+    "pk": 5,
+    "fields": {
+      "title": "Spring Salad",
+      "calories": 240,
+      "url": "https://images.pexels.com/photos/1152237/pexels-photo-1152237.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "description": "Secretly an updated version of spring cocktail, but a million times better than that description makes it sound.",
+      "time": 6
+    }
+  },
+  {
+    "model": "recipe_app.items",
+    "pk": 6,
+    "fields": {
+      "title": "Prawn Salad",
+      "calories": 617,
+      "url": "https://images.pexels.com/photos/3045731/pexels-photo-3045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Secretly an updated version of prawn cocktail, but a million times better than that description makes it sound.", "time": 10,
+      "time": 8
+    }
+  }
+]
